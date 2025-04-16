@@ -12,3 +12,18 @@ C:\Users\Alvaro\Documents\Repaso\RepasoAlvaro\RepasoAlvaro.Shared\obj\Debug\net8
 C:\Users\Alvaro\Documents\Repaso\RepasoAlvaro\RepasoAlvaro.Shared\bin\Debug\net8.0\RepasoAlvaro.Shared.runtimeconfig.json
 C:\Users\Alvaro\Documents\Repaso\RepasoAlvaro\RepasoAlvaro.Shared\obj\Debug\net8.0\RepasoAlvaro.Shared.csproj.AssemblyReference.cache
 C:\Users\Alvaro\Documents\Repaso\RepasoAlvaro\RepasoAlvaro.Shared\obj\Debug\net8.0\RepasoAlvaro.Shared.genruntimeconfig.cache
+C:\Users\SPARTAN PC\Source\Repos\Repaso\RepasoAlvaro.Shared\bin\Debug\net8.0\RepasoAlvaro.Shared.deps.json
+C:\Users\SPARTAN PC\Source\Repos\Repaso\RepasoAlvaro.Shared\bin\Debug\net8.0\RepasoAlvaro.Shared.runtimeconfig.json
+C:\Users\SPARTAN PC\Source\Repos\Repaso\RepasoAlvaro.Shared\bin\Debug\net8.0\RepasoAlvaro.Shared.dll
+C:\Users\SPARTAN PC\Source\Repos\Repaso\RepasoAlvaro.Shared\bin\Debug\net8.0\RepasoAlvaro.Shared.pdb
+C:\Users\SPARTAN PC\Source\Repos\Repaso\RepasoAlvaro.Shared\obj\Debug\net8.0\RepasoAlvaro.Shared.csproj.AssemblyReference.cache
+C:\Users\SPARTAN PC\Source\Repos\Repaso\RepasoAlvaro.Shared\obj\Debug\net8.0\RepasoAlvaro.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SPARTAN PC\Source\Repos\Repaso\RepasoAlvaro.Shared\obj\Debug\net8.0\RepasoAlvaro.Shared.AssemblyInfoInputs.cache
+C:\Users\SPARTAN PC\Source\Repos\Repaso\RepasoAlvaro.Shared\obj\Debug\net8.0\RepasoAlvaro.Shared.AssemblyInfo.cs
+C:\Users\SPARTAN PC\Source\Repos\Repaso\RepasoAlvaro.Shared\obj\Debug\net8.0\RepasoAlvaro.Shared.csproj.CoreCompileInputs.cache
+C:\Users\SPARTAN PC\Source\Repos\Repaso\RepasoAlvaro.Shared\obj\Debug\net8.0\RepasoAlvaro.Shared.sourcelink.json
+C:\Users\SPARTAN PC\Source\Repos\Repaso\RepasoAlvaro.Shared\obj\Debug\net8.0\RepasoAlvaro.Shared.dll
+C:\Users\SPARTAN PC\Source\Repos\Repaso\RepasoAlvaro.Shared\obj\Debug\net8.0\refint\RepasoAlvaro.Shared.dll
+C:\Users\SPARTAN PC\Source\Repos\Repaso\RepasoAlvaro.Shared\obj\Debug\net8.0\RepasoAlvaro.Shared.pdb
+C:\Users\SPARTAN PC\Source\Repos\Repaso\RepasoAlvaro.Shared\obj\Debug\net8.0\RepasoAlvaro.Shared.genruntimeconfig.cache
+C:\Users\SPARTAN PC\Source\Repos\Repaso\RepasoAlvaro.Shared\obj\Debug\net8.0\ref\RepasoAlvaro.Shared.dll
